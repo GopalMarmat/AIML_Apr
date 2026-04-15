@@ -1,0 +1,325 @@
+AIML One Page Summary Content:
+1. Basic Python
+2. Conditional Statements, Loops, Control Statements 
+3. Data Collection(List, Tuple, Set, Dictionary) and List Comprehension
+4. Function, Recursion, Lambda, Generator, Iterator
+5. OOPs Concept
+6. Pandas
+7. Numpy
+8. Statistics
+9. ML Basics ( Overfitting, Underfitting, Bias, Variance, Cross Validation, ML Lifecycle, ML Evaluation Metrics and Hyperparameter Tunning)
+10. Supervised ML Algorithms ( Linear Regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, AdaBoost, XGBoost, KNN, SVM, Naive Bayes)
+11. Unsupervised ML Algorithms (  K-Means Clustering, Hierarchical Clustering, DBSCAN, Apriory Rule Learning, PCA)
+12. Neural Network Basics ( Feed Forward Neural (Forward Propogation), Activation Function, Gradient Descent, Optimizers, Loss Function, Back Propogation, Epochs, Iteration, Batch Size)
+13. Deep Learning Algorithms ( ANN, RNN, LSTM, CNN, Transformer)
+14. NLP (Tokenization, Stemming, Lemmatization, Stopwords, POS Tagging, Name Entity Recognition and Word Embedding techniques)
+15. Generative AI Basics
+16. LangChain and langGraph
+17. Fine-tunning and It's Types
+18. Prompt Engineering and It's Types
+19. RAG
+20. Agentic AI
+21. LLM Evaluation Metrics
+22. Hallucination Control Methods
+23. Multi-Model
+24. MCP (Model Context Protocol)
+
+
+---
+
+# 🔹 **Week 1: Python Foundations**
+
+### **Day Plan**
+
+* Day 1: Basic Python ( Indendation, Comments, Variable, Data Types, Type casting/Conversion, string)
+* Day 2: Conditional + Loops + Control
+* Day 3–4: Data Structures + List Comprehension
+* Day 5: Functions + Recursion + Lambda + Generators
+
+---
+
+###  **Weekend Practice Tasks**
+
+1. Build a **number analyzer**
+   → Input list → find even, odd, prime numbers
+
+2. Create a **mini calculator using functions**
+   → Add, subtract, multiply, divide
+
+3. Write a **list comprehension program**
+   → Generate squares of even numbers from 1–50
+
+4. Create a **recursive function**
+   → Fibonacci / factorial
+---
+
+# 🔹 **Week 2: OOP + Data Libraries**
+
+### **Day Plan**
+
+* Day 1–2: OOP Concepts
+* Day 3: Streamlit and FastAPI
+* Day 4: Pandas
+* Day 5: NumPy and Statistics
+
+---
+
+###  **Weekend Practice Tasks**
+
+1. Build a **Student Class**
+   → Attributes + method to calculate grade
+
+2. NumPy Task
+   → Create matrix → perform transpose, mean, reshape
+
+3. Pandas Task
+   → Load CSV → filter rows → groupby operation
+
+4. Statistics Task
+   → Calculate mean, median, std from dataset
+
+---
+
+# 🔹 **Week 3: ML Basics + Supervised ML**
+
+### **Day Plan**
+
+* Day 1: ML Basics
+* Day 2: Linear Regression and Logistic Regression
+* Day 3: Decision Tree and Random Forest
+* Day 4: Gradient Boosting, XGBoost and AdaBoost
+* Day 5: K Nearest Neighbors, Support Vector Machine and Naive Bayes
+
+---
+
+###  **Weekend Practice Tasks**
+
+1. Train a **Linear Regression model**
+   → Predict house price
+
+2. Classification Task
+   → Logistic Regression on small dataset
+
+3. Compare models
+   → Decision Tree vs Random Forest vs Gradient Boosting vs AdaBoost vs XGBoost
+
+4. Evaluate model
+   → Accuracy, Precision, Recall
+
+---
+
+# 🔹 **Week 4: Unsupervised ML + Mini Project**
+
+### **Day Plan**
+
+* Day 1: K-means Clustering and Hierarchical Clustering
+* Day 2: DBSCAN and PCA
+* Day 3: Apriory Association Rule Learning
+* Day 4: Python, Pandas and ML Revision 1
+* Day 5: ML Mini Project using Streamlit
+
+---
+
+###  **Weekend Practice Tasks**
+
+1. Apply **K-Means clustering**
+   → Customer segmentation
+
+2. Use **PCA**
+   → Reduce dataset dimensions
+
+3. Try **DBSCAN**
+   → Detect outliers
+
+4. Improve ML Project
+   → Add hyperparameter tuning
+
+---
+
+# 🔹 **Week 5: Neural Networks + Deep Learning**
+
+### **Day Plan**
+
+* Day 1: Neural Network Basics
+* Day 2: Artificial Neural Networks and Recurrent Neural Networks
+* Day 3: Long-Short Term Memory
+* Day 4: Convolutional Neural Networks
+* Day 5: Transformer
+
+---
+
+###  **Weekend Practice Tasks**
+
+1. Build a **basic ANN model**
+   → Binary classification
+
+2. CNN Task
+   → Image classification (MNIST)
+
+3. Experiment
+   → Change optimizer & observe results
+
+4. Plot training graph
+   → Loss vs accuracy
+
+---
+
+# 🔹 **Week 6: NLP - NLP Techniques**
+
+### **Day Plan**
+
+* Day 1: Tokenization, Stemming, Lemmatization, POS Tagging and Stopwords
+* Day 2: Name Entity Recognition and Word Embedding
+* Day 3: Python and Pandas Revision 2
+* Day 4: Machine Leaning Revision 2
+* Day 5: Deep Learning and NLP Revision 1
+---
+
+###  **Weekend Practice Tasks**
+
+1. Text preprocessing pipeline
+   → Tokenization + stopwords removal
+
+2. Build **spam classifier**
+
+3. Apply **TF-IDF / Word Embeddings**
+
+4. Perform **NER using library**
+
+---
+
+# 🔹 **Week 7: Generative AI + RAG + Agents**
+
+### **Day Plan**
+
+* Day 1: GenAI Basics and Prompt Engineering
+* Day 2: LangChain + LangGraph + LangSmith
+* Day 3: Fine-tuning
+* Day 4: RAG
+* Day 5: Agentic AI
+
+---
+
+###  **Weekend Practice Tasks**
+
+1. Prompt Engineering
+   → Create 3 prompts for same task & compare
+
+2. Build **simple chatbot (LLM API)**
+
+3. Create **mini RAG pipeline**
+   → Load PDF → ask questions
+
+4. Build **basic agent**
+   → Tool: calculator or search
+
+---
+
+# 🔹 **Week 8: Advanced Topics + Revision**
+
+### **Day Plan**
+
+* Day 1: LLM Evaluation
+* Day 2: Hallucination Control, Multi-model and MCP
+* Day 3: Python, Pandas, ML Revision 3
+* Day 4: Deep Learning and NLP Revision 2
+* Day 5: Generative Revision 1
+
+---
+
+###  **Weekend Practice Tasks**
+
+1. Evaluate LLM responses
+   → Detect hallucinations
+
+2. Improve RAG system
+   → Better retrieval
+
+3. Multi-model test
+   → Text + image input
+
+4. Final preparation
+   → Project planning
+
+---
+
+### ** 1-Month End to End Project Plan (Structured Execution)**
+
+Now this is where students become **job-ready**.
+
+---
+
+# 🔹 **Week 1: ML End-to-End Project**
+
+**Goal:** Industry-style ML project
+
+### Tasks:
+
+* Problem definition
+* Data collection
+* Data cleaning + EDA
+* Feature engineering
+* Model building
+* Evaluation + tuning
+* Final report
+
+---
+
+# 🔹 **Week 2: Deep Learning Project**
+
+### Options:
+
+* Image classification (CNN)
+* Text classification (LSTM)
+
+### Tasks:
+
+* Dataset handling
+* Model training
+* Performance tuning
+* Visualization
+* Model improvement
+
+---
+
+# 🔹 **Week 3: Generative AI – RAG Project**
+
+### Example:
+
+* PDF Q&A chatbot
+
+### Tasks:
+
+* Document ingestion
+* Embeddings + vector DB
+* Retrieval pipeline
+* Prompt design
+* Evaluation
+
+---
+
+# 🔹 **Week 4: Agentic AI Project**
+
+### Example:
+
+* AI assistant with tools
+
+### Tasks:
+
+* Tool integration
+* Agent workflows
+* Memory handling
+* Multi-step reasoning
+* Final demo + presentation
+
+---
+
+# Final Teaching Strategy
+
+### Weekly Structure
+
+* 5 days teaching
+* 2 days practice (very important)
+* 70% hands-on
+* 30% theory
+* GitHub submissions
