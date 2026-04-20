@@ -1,8 +1,13 @@
 # AIML_April
 
 Project Command:
+
+For First time only need To Set Proxy: (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned)
+
 Python Environment Create Command: python -m venv venv
+
 Activate Environment: venv\Scripts\activate
+
 install dependencies: pip install -r requirements.txt
 
 Python Day 1 14-04-2026:
